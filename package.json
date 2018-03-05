@@ -1,6 +1,6 @@
 {
   "name": "track-server-cache-lru-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "LRU Cache for track-server.",
   "main": "lib/index.js",
   "repository": "alfa-jpn/track-server-cache-lru-cache.git",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "lru-cache": "^4.1.1",
-    "track-server-renderer": "0.0.3"
+    "track-server-renderer": "0.0.4"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
