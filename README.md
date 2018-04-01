@@ -1,6 +1,8 @@
 # TrackServerCacheLRUCache
 LRU Cache for track-server.
 
+[![Build Status](https://travis-ci.org/yosami-framework/track-server-cache-lru-cache.svg?branch=master)](https://travis-ci.org/yosami-framework/track-server-cache-lru-cache)
+
 ## Installation
 
 ### npm
