@@ -1,9 +1,9 @@
 {
   "name": "track-server-cache-lru-cache",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "LRU Cache for track-server.",
   "main": "lib/index.js",
-  "repository": "alfa-jpn/track-server-cache-lru-cache.git",
+  "repository": "yosami-framework/track-server-cache-lru-cache.git",
   "scripts": {
     "linter": "eslint ./",
     "test": "ospec"
@@ -18,7 +18,7 @@
     "eslint-config-google": "^0.9.1",
     "mithril": "^1.1.6",
     "track-server-renderer": "0.0.5",
-    "track-spec": "0.0.3"
+    "track-spec": "0.0.4"
   },
   "peerDependencies": {
     "track-server-renderer": "0.0.x"
